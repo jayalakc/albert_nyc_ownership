@@ -1,0 +1,23 @@
+---
+title: "nyc_tenants"
+author: "Jordan Ayala"
+date: "2/18/2022"
+output: html_document
+---
+
+To create a new code chucnk: Ctrl + Alt + i
+# install all needed packages (ONLY RUN THIS CODE THE FIRST TIME YOU OPEN THIS DOC)
+```{r}
+install.packages("tidyverse")
+install.packages("dplyr")
+install.packages("here")
+```
+
+
+## Load required packages 
+```{r}
+library(tidyverse)
+library(dplyr)
+library(here)
+```
+
