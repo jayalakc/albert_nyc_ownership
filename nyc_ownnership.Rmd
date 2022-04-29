@@ -22,6 +22,7 @@ library(here)
 ```{r}
 nycparcels<-read_csv(here("Bronx_Parcels_LLC.csv"))
 ```
+
 ```{r}
 df1<-nycparcels %>% 
   group_by(YR_BLT) %>% 
@@ -38,6 +39,7 @@ df2 <- nycparcels %>%
 April_Survey <- read_csv(here("BlockConditionsSurvey.csv"))
 
 ```
+
 ```{r}
 Facade <- April_Survey %>% 
   rename(BlockID = 'Block_ID,N,19,11') %>% 
@@ -53,6 +55,7 @@ Facade <- April_Survey %>%
   rename(Avg_Window = 'mean(`Window_Con,N,19,11`)')
 
 ```
+
 ```{r}
 Paint <- April_Survey %>% 
   rename(BlockID = 'Block_ID,N,19,11') %>% 
@@ -60,8 +63,6 @@ Paint <- April_Survey %>%
   mutate(Paint = na_if(`Paint_Cond,N,19,11`,"0")) %>% 
   filter(Paint != 0) %>% 
   summarize(mean(`Paint`))
-  
-
 ```
 
 ```{r}
@@ -78,22 +79,47 @@ Garden <- April_Survey %>%
 ```{r}
 April_Survey_Averages <- bind_cols(Facade, Window)
 ```
+
 ```{r}
 index <- full_join(Garden, Paint, by = "BlockID") 
 index2 <- full_join(index, Facade, by = "BlockID")
-index3 <- full_join(index2, Window, by = "BlockID") %>% 
+```
 
-  group_by(BlockID) %>%
-  filter(mean(Paint) != NA) %>% 
-  filter(Avg_Garden != NA)
-  
-
+```{r}
+index3 <- full_join(index2, Window, by = "BlockID")
 ```
 
 
 ```{r}
-write_csv(April_Survey_Averages,here("avgaprilsurvey.csv"))
+sum_index<-index3 %>% 
+  rename(Avg_Paint='mean(Paint)') %>% 
+  filter(Avg_Paint != "NA") %>% 
+  filter(Avg_Garden != "NA") %>% 
+  group_by(BlockID) %>%
+  summarise(sum(Avg_Garden+Avg_Paint+Avg_Facade+Avg_Window)) %>% 
+  rename(sum_index="sum(Avg_Garden + Avg_Paint + Avg_Facade + Avg_Window)")
+
+#Average sum index is 15.4
+avg_of_sum_index<-sum_index %>% 
+  summarise(mean(sum_index))
+
+#Median of sum index is 
+median_of_sum_index<-sum_index %>% 
+  summarise(median(sum_index))
+
+#Range of sum index is 
+median_of_sum_index<-sum_index %>% 
+  summarise(range(sum_index))
+  
+```
+
+
+```{r}
+write_csv(April_Survey_Averages,here("avgaprilsurvey_facad_and_windos.csv"))
 write_csv(Paint,here("avgpaintsurvey.csv"))
 write_csv(Garden,here("avggardensurvey.csv"))
+
+#Export the sum index
+write_csv(sum_index,here("sum_index.csv"))
 ```
 
