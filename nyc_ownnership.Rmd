@@ -6,12 +6,10 @@ output: html_document
 ---
 
 To create a new code chucnk: Ctrl + Alt + i
-# install all needed packages (ONLY RUN THIS CODE THE FIRST TIME YOU OPEN THIS DOC)
-```{r}
+To create a piping operator: ctrl + shift+ m 
 install.packages("tidyverse")
 install.packages("dplyr")
 install.packages("here")
-```
 
 
 ## Load required packages 
@@ -19,5 +17,83 @@ install.packages("here")
 library(tidyverse)
 library(dplyr)
 library(here)
+```
+
+```{r}
+nycparcels<-read_csv(here("Bronx_Parcels_LLC.csv"))
+```
+```{r}
+df1<-nycparcels %>% 
+  group_by(YR_BLT) %>% 
+  tally()
+```
+ctrl + enter: runs code chunk
+```{r}
+df2 <- nycparcels %>% 
+  filter(YR_BLT=="1901")
+```
+# April 25th 2022 Creating Block Averages
+
+```{r}
+April_Survey <- read_csv(here("BlockConditionsSurvey.csv"))
+
+```
+```{r}
+Facade <- April_Survey %>% 
+  rename(BlockID = 'Block_ID,N,19,11') %>% 
+  group_by(BlockID) %>% 
+  summarize(mean(`Facade_Mas,N,19,11`)) %>% 
+  rename(Avg_Facade = 'mean(`Facade_Mas,N,19,11`)')
+
+  Window <- April_Survey %>% 
+  
+  rename(BlockID = 'Block_ID,N,19,11') %>% 
+  group_by(BlockID) %>% 
+  summarize(mean(`Window_Con,N,19,11`)) %>% 
+  rename(Avg_Window = 'mean(`Window_Con,N,19,11`)')
+
+```
+```{r}
+Paint <- April_Survey %>% 
+  rename(BlockID = 'Block_ID,N,19,11') %>% 
+  group_by(BlockID) %>% 
+  mutate(Paint = na_if(`Paint_Cond,N,19,11`,"0")) %>% 
+  filter(Paint != 0) %>% 
+  summarize(mean(`Paint`))
+  
+
+```
+
+```{r}
+Garden <- April_Survey %>% 
+  rename(BlockID = 'Block_ID,N,19,11') %>% 
+  group_by(BlockID) %>% 
+  mutate(Garden = na_if(`Garden_Con,N,19,11`,"0")) %>% 
+  filter(Garden != 0) %>% 
+  summarize(mean(`Garden`)) %>% 
+  rename(Avg_Garden = 'mean(Garden)')
+  
+```
+
+```{r}
+April_Survey_Averages <- bind_cols(Facade, Window)
+```
+```{r}
+index <- full_join(Garden, Paint, by = "BlockID") 
+index2 <- full_join(index, Facade, by = "BlockID")
+index3 <- full_join(index2, Window, by = "BlockID") %>% 
+
+  group_by(BlockID) %>%
+  filter(mean(Paint) != NA) %>% 
+  filter(Avg_Garden != NA)
+  
+
+```
+
+
+```{r}
+write_csv(April_Survey_Averages,here("avgaprilsurvey.csv"))
+write_csv(Paint,here("avgpaintsurvey.csv"))
+write_csv(Garden,here("avggardensurvey.csv"))
 ```
 

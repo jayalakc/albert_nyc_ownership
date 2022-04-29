@@ -1,0 +1,658 @@
+"Join_Count,N,10,0","TARGET_FID,N,10,0","JOIN_FID,N,10,0","globalid,C,254","CreationDa,D","Creator,C,254","EditDate,D","Editor,C,254","Facade_Mas,N,19,11","Window_Con,N,19,11","Paint_Cond,N,19,11","Garden_Con,N,19,11","Shed,C,254","is_there_a,C,254","Additional,C,254","SymbolID,C,20","Block_ID,N,19,11","Block_Name,C,254"
+1,1,29,f931de71-0bcb-473b-855c-65fffb240813,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,2,No,,,,3190.205,205th & Decatur
+1,2,29,cd4fc3fc-3fdf-43e1-81ad-94ad3c7aa9e0,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,5,No,,,,3190.205,205th & Decatur
+1,3,29,dad0a9da-1f13-4a74-8869-15c1924ab0f8,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,3,No,,,,3190.205,205th & Decatur
+1,4,29,6c7012af-e71d-4b17-8140-e856691b67bc,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,5,5,No,,,,3190.205,205th & Decatur
+1,5,29,c7ad3fdb-9ceb-4a72-8262-48aefce2cef0,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,2,No,,,,3190.205,205th & Decatur
+1,6,29,88ce4f6f-451c-44ff-856e-bcbd56ceada9,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,2,No,,Chipped bricks,,3190.205,205th & Decatur
+1,7,29,16673fdd-02c2-4272-8763-ea02cbcd7a7e,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,5,3,No,,,,3190.205,205th & Decatur
+1,8,29,5fb11b3e-dd43-4bc1-8759-28e1659eb33f,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,4,0,No,,Huge crack in foundation,,3190.205,205th & Decatur
+1,9,29,3e420a38-4459-433b-8f18-d8fb19cdbbcc,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,4,0,No,,,,3190.205,205th & Decatur
+1,10,29,4419a2ad-3495-490f-8357-4c1594063fc6,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,4,0,No,,,,3190.205,205th & Decatur
+1,11,29,67a54afc-a0b3-4f75-8631-80264a011c75,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,3,0,No,,Apparent cracks which have been fix,,3190.205,205th & Decatur
+1,12,29,46b80957-3ed4-4f67-8beb-ae05bf2e1e9b,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,3,No,,"Broken window frame, massive discoloration on facade",,3190.205,205th & Decatur
+1,13,20,483e4e46-790f-4046-872f-c52647da8dac,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,2,No,,,,0,E 207th Schoolfront
+1,14,20,ded04479-21a6-456a-8b43-2e067a71d101,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,2,0,0,No,,Few broken windows,,0,E 207th Schoolfront
+1,15,19,ffd7c0e8-36d0-45a9-8397-3e0ebd55a417,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,3,3,No,,,,3240.2071,E 207th & Hull
+1,16,19,60f2ef4a-921a-4389-8a02-fcd1525b2617,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,1,2,0,No,,Boarded up Windows and Chipped Paint,,3240.2071,E 207th & Hull
+1,17,19,54c58b85-5611-434e-8384-88de6492d4e3,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3240.2071,E 207th & Hull
+1,18,19,1e1ad654-1b32-40ea-8610-871e7805cf4a,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,2,0,No,,,,3240.2071,E 207th & Hull
+1,19,19,7122dd0f-ce51-4814-8857-3375726aa955,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,Home looks like a new investment / freshly painted,,3240.2071,E 207th & Hull
+1,20,19,fc1dbb9a-78bc-4cc4-87ee-87bea0a94bd0,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,3,5,No,,Looks like a well maintained home. Has a surveillance camera as well as the building next to it,,3240.2071,E 207th & Hull
+1,21,19,64d09e10-a5c2-45a3-841b-3bbdbce4512a,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,2,5,No,,,,3240.2071,E 207th & Hull
+1,22,19,12a7b82a-e6ee-437f-8de7-a33c3d58ca1e,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,3,No,,,,3240.2071,E 207th & Hull
+1,23,19,003bf44a-de08-41b4-81f6-7ce52afbc546,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,5,No,,Looks like an extremely well maintained home,,3240.2071,E 207th & Hull
+1,24,19,c9be6817-66a8-4d07-8342-2866c835e393,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3240.2071,E 207th & Hull
+1,25,19,05156a30-34d0-494b-8828-bf559ba3523e,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,2,0,No,,,,3240.2071,E 207th & Hull
+1,26,19,541f7725-330f-442c-8057-31002a769c2a,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,3,0,No,,,,3240.2071,E 207th & Hull
+1,27,19,d2a24f14-f794-4140-8082-0da995b8681b,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3240.2071,E 207th & Hull
+1,28,19,54ef9983-e7c2-41e4-8854-9136c581f16d,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3240.2071,E 207th & Hull
+1,29,19,38d81010-318b-4faa-806b-5dc4721f7cc8,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,5,3,0,No,,,,3240.2071,E 207th & Hull
+1,30,19,077aa0c4-06fe-4d8a-8b85-edcbe2f9c557,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3240.2071,E 207th & Hull
+1,31,19,f6a57fa9-afc0-4baf-8076-1be599dcd894,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3240.2071,E 207th & Hull
+1,32,19,da10ac3d-e98e-4c24-8fff-1f1d333f4ffc,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,1,No,,Not pleasant to walk by,,3240.2071,E 207th & Hull
+1,33,19,03ed127c-ddff-4ed7-8d17-e529605814d0,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,3240.2071,E 207th & Hull
+1,34,12,bdc7aa60-9b37-4156-8e66-25a83e857662,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,3300.2091,E 209th & Hull
+0,35,-1,64ace654-6fd6-4fc6-822a-86ec1ea70eeb,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,0,
+1,36,15,2830b32f-2386-492e-8d6d-464d8288f4de,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,5,1,No,,,,3300.2092,209th & Perry
+1,37,15,28847f8e-04bb-4993-8572-fdfca037c033,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,2,0,No,,,,3300.2092,209th & Perry
+1,38,12,54248c17-6d73-4855-84e3-14082613cc74,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,39,12,d1547fed-c93a-4604-8dcf-5f9487d3f3e9,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,40,12,a18fd877-5c4e-4bf5-8579-5a84ec58e0e8,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,41,12,0e2b3864-e52b-4702-8842-c917e6896fb3,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,42,12,a716c03c-e0a7-4ed4-8cb6-9d7a5b05a5fb,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,43,12,fd0f44ef-fb3e-4ea5-8d02-8956d607703d,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,0,0,Yes,,Building going under exterior construction,,3300.2091,E 209th & Hull
+1,44,12,e17234d5-ea86-4e29-8bfd-b2d43d8f15bb,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,1,3,0,0,Yes,,No note on construction despite shed,,3300.2091,E 209th & Hull
+1,45,12,cd12fc55-efd4-4b76-8d8d-cc58f16a2b51,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,1,3,0,0,Yes,,No sign of construction despite shed,,3300.2091,E 209th & Hull
+1,46,12,8567dc38-234d-4997-8bb6-ddd62f36018d,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,47,12,e8935cd6-06ad-4fef-8297-2ae0b5474a30,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3300.2091,E 209th & Hull
+1,48,12,b45b27db-2193-4875-80c1-9c7c5b698dae,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3300.2091,E 209th & Hull
+0,49,-1,7fec9b0b-b728-491b-8899-d253afa7915f,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,0,
+1,50,13,7a03c95c-a861-45a1-8e7b-f8e27a3b6642,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3500.02,East Gun Hill & Hull
+1,51,13,00af5668-b5e5-4e9f-8a26-0e6219a06d3b,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3500.02,East Gun Hill & Hull
+1,52,13,d67908a7-b8cf-43fa-8eaa-7353ed08bf33,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3500.02,East Gun Hill & Hull
+0,53,-1,72ecbdb3-2707-4202-88b8-c333a320e04e,04/15/2022,ar8618_Bard1,04/15/2022,ar8618_Bard1,1,5,5,2,Yes,,Building has Facade in very good condition. However sidewalk shed is present and bricks are missing from the top of the building.,,0,
+1,54,13,89d6dfa6-e7fe-4bf5-8c33-3901b86c34bf,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,2,0,No,,,,3500.02,East Gun Hill & Hull
+1,55,13,120d676b-8041-4c38-8526-7cec85e4c089,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3500.02,East Gun Hill & Hull
+1,56,12,39dbb8ef-8270-4bfb-822e-28c4748002ea,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,57,11,0775bed0-2b2a-481a-8b04-168823ca6307,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,3,2,No,,,,3300.209,E 209th & Decatur
+1,58,12,f7983733-dbb5-49ad-8de5-bea2d82cbf78,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,2,3,No,,,,3300.2091,E 209th & Hull
+1,59,12,16f473ba-36d2-42fa-829b-241f26f1d9d8,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,60,12,804f33b8-aa39-48d7-8525-033110161ffe,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,61,12,79f166ae-3a69-4d0b-8690-e3f96324451a,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,1,No,,,,3300.2091,E 209th & Hull
+1,62,12,91e97958-7686-4a3b-8a38-a66d658e8f82,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,63,12,2f42d71c-2aa0-41eb-88ab-064fc2bc4cb9,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,3,0,No,,,,3300.2091,E 209th & Hull
+1,64,12,3b2260cb-3276-4c07-8739-ab107955a9e5,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3300.2091,E 209th & Hull
+1,65,12,2ba56ada-1043-4205-86fe-17245a49f810,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,1,No,,,,3300.2091,E 209th & Hull
+1,66,12,7154a287-2a53-4298-82e7-70f037528d4b,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3300.2091,E 209th & Hull
+1,67,12,6057ec2d-353e-4ea3-8be4-ee1cb5a69ea1,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,68,11,28d15b4a-c030-4780-84ca-6d450de49ec3,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.209,E 209th & Decatur
+1,69,19,135657e8-381f-4faf-8188-7abd26e6ffc6,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3240.2071,E 207th & Hull
+1,70,19,45f2a73c-0e53-476c-8c59-31dfe3f6ed4a,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3240.2071,E 207th & Hull
+1,71,19,760490ff-70b6-46ae-8138-4ea48ed67663,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3240.2071,E 207th & Hull
+1,72,19,26051d48-9afc-4412-8f42-84392ebb3ff4,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3240.2071,E 207th & Hull
+1,73,19,3db904ee-de56-41f9-8223-9139327ceac1,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,3,2,No,,,,3240.2071,E 207th & Hull
+1,74,19,0de7122e-1d87-4136-867a-85626dc72f9d,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,3,No,,,,3240.2071,E 207th & Hull
+1,75,18,cebc9da6-9536-4786-8b1e-48ee39989aec,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3240.207,E 207th & Decatur
+1,76,21,487cf66a-5a08-4892-8bb8-1bd302d6cd46,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,207.1,E 207th
+1,77,19,302197a3-b8f0-4b70-812b-4993d63f525f,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,4,0,No,,,,3240.2071,E 207th & Hull
+1,78,18,d9044ef2-7953-4398-846e-d1a849606a88,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3240.207,E 207th & Decatur
+1,79,18,8cc16535-60f4-4f23-8d15-32a241830538,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,2,No,,,,3240.207,E 207th & Decatur
+1,80,18,c4ac1dff-a6e4-4db8-894f-37368bca7fa8,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,5,3,No,,,,3240.207,E 207th & Decatur
+1,81,18,dd2e5a0f-138a-4ca1-81b9-d4dea3c3d423,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,0,No,,,,3240.207,E 207th & Decatur
+1,82,18,b2e45af2-4fd8-4fbf-8bc3-6bcdd6f76905,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,4,0,No,,,,3240.207,E 207th & Decatur
+1,83,18,0bd1007b-6974-4b49-88ab-a5b40f02abbd,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3240.207,E 207th & Decatur
+1,84,18,2cc6d81e-906c-432d-8695-14d4ba5281f9,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,2,0,3,No,,,,3240.207,E 207th & Decatur
+1,85,18,2505783f-231b-48a1-8ce1-71358c1b8467,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3240.207,E 207th & Decatur
+1,86,18,00402113-919c-4f4c-8fdf-6a3cd7289d92,04/15/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3240.207,E 207th & Decatur
+1,87,18,9449ec6c-31df-4160-8949-499968bc3e60,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,3,0,No,,,,3240.207,E 207th & Decatur
+1,88,18,65bf1ea9-e618-4a0c-816f-31c5aae12e5b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,4,No,,,,3240.207,E 207th & Decatur
+1,89,31,7033faf0-d1f1-4b0a-8b5e-88177dd3f166,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3130.204,204th & Decatur
+1,90,29,b8a88160-10f7-4088-8852-6b6b3076a8ea,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,Building has evidently been filled with sealent,,3190.205,205th & Decatur
+1,91,32,a2fc1345-61cc-42a4-8bb4-c7aa12ba92fd,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3120.2041,204th & Hull
+1,92,25,5e6c1674-67ef-4e6a-80b3-4eb571801883,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3190.2051,205th & Hull
+1,93,25,7ccbba64-a61e-4014-8c7c-4c4bad510873,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,Looks like a new home,,3190.2051,205th & Hull
+1,94,98,3e268cf5-6490-4cce-8cb8-e8b6f111a26d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,4,3,No,,,,100.5,E Mosholu Parkway N & Bainbridge
+1,95,98,ad0981b9-7131-4e43-82c1-c2d700e0ba62,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,3,No,,,,100.5,E Mosholu Parkway N & Bainbridge
+1,96,97,ef600e62-f26d-4c63-80b6-e1f4fbef6408,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,2,No,,Well maintained exterior and decorative structures at the entrance,,3130.101,Rochambeau & Bainbridge
+1,97,97,66d662db-fd6a-4f99-8dda-414ec60b4aa3,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.101,Rochambeau & Bainbridge
+1,98,97,ca857d05-72d0-48e0-8cad-bcc62cff744f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3130.101,Rochambeau & Bainbridge
+1,99,97,921e28fd-5a1b-468a-8b0c-6eebbd6d2a1a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3130.101,Rochambeau & Bainbridge
+1,100,41,84552d10-06ac-496d-89b9-756aad1d8aee,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,0,No,,,,3160.206,206th & Rochambeau
+1,101,41,f03ba8af-3abc-4523-899f-77ce4a720fce,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,3,0,2,No,,,,3160.206,206th & Rochambeau
+1,102,41,dacd9eb1-a1d3-478b-8453-5d9dfcfa32c0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,5,No,,,,3160.206,206th & Rochambeau
+1,103,41,1717cfc1-da6e-4446-8118-bdf1f504bb10,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3160.206,206th & Rochambeau
+1,104,41,8cd2a330-77d8-4107-8c52-6f7c78be6960,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3160.206,206th & Rochambeau
+1,105,41,5d40618b-0074-45e7-8b36-edee6cb4a548,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,4,No,,,,3160.206,206th & Rochambeau
+1,106,41,79b883d0-b406-435c-83a8-4f9e3d211caf,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3160.206,206th & Rochambeau
+1,107,41,81dc61cd-1f7c-4ff5-8778-ff4265770990,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3160.206,206th & Rochambeau
+1,108,41,98658366-f4aa-4015-87d2-73e0ff11ffce,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3160.206,206th & Rochambeau
+1,109,41,f36fd0bf-5554-4877-815c-08bed5e98364,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,3,No,,,,3160.206,206th & Rochambeau
+1,110,41,b491ac34-12ec-4511-8ff6-fd0d1cf61ce1,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,3160.206,206th & Rochambeau
+1,111,41,3b091981-18dd-4cab-8f83-c20179d99c64,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,0,4,No,,,,3160.206,206th & Rochambeau
+1,112,41,633a489e-4713-4332-833f-3c9360c53010,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3160.206,206th & Rochambeau
+1,113,41,9c4053a5-1fda-4c00-8902-96442deb7bd1,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,0,0,Yes,,Sidewalk shed present with construction,,3160.206,206th & Rochambeau
+1,114,41,d0e498a0-e3ad-426a-823b-1aa26aa9b5e2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,2,1,0,Yes,,,,3160.206,206th & Rochambeau
+1,115,41,1fe2cbc3-c88f-49ce-86ab-21dfc5d256da,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,5,Yes,,,,3160.206,206th & Rochambeau
+1,116,115,1dc512b2-6585-4045-8314-b98b5f780891,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,2,2,No,,,,3230.1,Rochambeau & Van Cortlandt
+1,117,115,7eab9712-ffd5-469b-8a95-4f7dfff6da2b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,1,4,0,0,No,,,,3230.1,Rochambeau & Van Cortlandt
+1,118,115,1135802c-7d85-4d8d-8342-09ec5c5b53bf,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3230.1,Rochambeau & Van Cortlandt
+1,119,115,5261b814-6c55-42a3-8ad0-c42f9848334d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,4,4,No,,,,3230.1,Rochambeau & Van Cortlandt
+1,120,115,ab828ec2-c5db-4746-8cfa-a31c98948d53,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3230.1,Rochambeau & Van Cortlandt
+1,121,115,172ac1bd-f8c8-4435-8ed7-bafceaad7d4d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3230.1,Rochambeau & Van Cortlandt
+1,122,40,5ec82543-2321-4f59-85e3-ddd8333064ae,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,123,115,4edccc6e-9dd2-42c5-884b-e8fb2ce00000,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,1,0,4,No,,"Broken windows, boarded windows, huge cracks",,3230.1,Rochambeau & Van Cortlandt
+1,124,40,f97902e0-1af6-48db-8fd0-e5fb06960cea,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,125,40,d33db6f2-b6e8-4b1c-8823-2e200018dd2d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,126,40,7df531ab-97d9-4ab5-83fb-edd5267b6b03,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,4,No,,,,3300.208,E 208th & Rochambeau Ave
+1,127,40,51dffcb7-a785-4a9c-8a6d-80bd43c71216,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,5,5,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,128,40,c234a3d4-df7f-4d08-840e-91d8a7d56e32,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,129,40,edffefaa-56a2-45f9-8c6a-6dbcd39efa00,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,4,No,,,,3300.208,E 208th & Rochambeau Ave
+1,130,40,18cc4300-7936-44b7-8a87-3a9186bd7f89,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,4,No,,,,3300.208,E 208th & Rochambeau Ave
+1,131,40,61513fae-8522-4cf1-8c30-00cd5f0dabbf,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,4,No,,,,3300.208,E 208th & Rochambeau Ave
+1,132,40,8e1abca0-2e26-41c4-8fc6-e7b2edf54699,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,4,No,,,,3300.208,E 208th & Rochambeau Ave
+1,133,40,7fa0ba59-5b58-45d5-8059-b64f1fedc56a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,134,40,01be179e-071d-458b-8c57-40740a150547,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,135,40,e294a7ae-11b7-4cd7-8127-263d4cc83b94,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,136,40,edb02af5-fddf-4b7c-8f78-caa52e83a076,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,2,No,,,,3300.208,E 208th & Rochambeau Ave
+1,137,40,09012e77-3f61-4565-849e-f2dc7d751aa3,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,138,40,1d580590-d13c-49bc-8b0b-65d88826d450,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,139,40,0b487079-bd4b-4838-8dc0-650d249167b5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,5,4,4,No,,,,3300.208,E 208th & Rochambeau Ave
+1,140,40,342e199b-9dfb-4dc7-8d47-b66b9be9bc17,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,141,40,7c7bab29-fdd4-4195-8d94-76afa742db5c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,0,4,No,,Notable damage to facade and decorative units in the front,,3300.208,E 208th & Rochambeau Ave
+1,142,40,eacc699b-7f15-4c0e-8697-599c51774169,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,143,40,6decfe52-690b-41d3-836b-682fd16e9f35,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,3300.208,E 208th & Rochambeau Ave
+1,144,40,1b4f3a74-84e9-4947-8610-4263a2ee3218,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,5,No,,,,3300.208,E 208th & Rochambeau Ave
+1,145,124,5499c9a5-be04-4a18-8e60-e6120d5a875b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,146,124,f838d53b-9044-40f2-85cf-9a505e87c377,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,147,124,688e035b-64b4-44a0-83d7-512ebe54e3e8,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,2,4,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,148,124,3d1ffd18-9b1f-4c58-813c-51702419b0c6,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,2,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,149,124,05dac664-5d9c-4aa7-84b0-d8999a6e856b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,3,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,150,124,0eeeb7c5-089e-4a01-8747-a784e26a4515,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,3,0,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,151,124,fd7b014a-6047-4ce8-8e4c-e4fa68761195,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,3,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,152,124,222eb02a-f8c5-4879-8a3d-efe43e14cb62,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,153,124,7d333eda-645d-4d4d-833e-098915fa66f8,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,154,124,766a48b5-fa87-438f-8a1d-93bae80a7edd,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,4,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,155,124,066470be-e861-498f-814b-937426ab253e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,5,4,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,156,124,7247d06e-f698-4efe-8ce3-214e061a73df,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,157,124,2077a950-638c-44e1-85fa-d34517c9dc0e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,158,124,3fe95264-4d61-4a9e-8091-8b37c496e76a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,3,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,159,124,d7f34894-181d-4fa7-8cf0-a911665ccd1d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,160,124,15dfa622-ee80-478d-8d99-290686eba8e4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,2,0,0,Yes,,,,3400.2,W Mosholu Parkway & Knox Place
+1,161,124,086653bd-bc04-4766-84f7-3a19ec7b52ca,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,162,124,09b70db5-8ce4-4e28-8cbf-6ff9dce62abf,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,3,0,0,Yes,,Minimal construction with shed,,3400.2,W Mosholu Parkway & Knox Place
+1,163,124,569e6195-727f-4e3f-8164-3ee4ac31e7a0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,0,No,,,,3400.2,W Mosholu Parkway & Knox Place
+1,164,123,59a4d707-9fee-4311-8b3b-70b56708b65d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,4,0,No,,,,3400.3,W Mosholu Parkway & Gates Place
+1,165,2,5c6fa575-216d-4535-8d37-0d5a8e25070e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,4,0,No,,,,50.1,W Mosholu Parkway Triangle
+1,166,123,656f4394-0383-46ee-8db9-4aab92b58465,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,4,0,No,,,,3400.3,W Mosholu Parkway & Gates Place
+1,167,2,8731dbde-0670-4641-8e50-56d8b7e116bd,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,50.1,W Mosholu Parkway Triangle
+1,168,123,199826c8-bf5b-428c-8aaf-96ca11b21c1f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,Decorative front structure not in great condition,,3400.3,W Mosholu Parkway & Gates Place
+1,169,2,442876cd-c2af-4366-8438-f3d29b875844,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,50.1,W Mosholu Parkway Triangle
+1,170,123,0e558b9c-6f9b-4f51-83d3-58f75699c695,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3400.3,W Mosholu Parkway & Gates Place
+1,171,123,df329ba2-f979-44f6-8106-ae62d0f57a58,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,5,0,No,,,,3400.3,W Mosholu Parkway & Gates Place
+1,172,49,4b6f0b03-db18-48d3-8042-ae009b8877a5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,50.66,W Gun Hill Road Triangle
+1,173,123,7bb9a073-7400-4e92-8fab-5cebc9998320,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,2,No,,Broken decorative structures in the front,,3400.3,W Mosholu Parkway & Gates Place
+1,174,49,a3d2f2dd-3eab-461c-80c2-3726814ebee6,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,2,No,,,,50.66,W Gun Hill Road Triangle
+1,175,123,b932e5fc-ff1d-4420-8712-b107e2591e96,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,Broken bricks on stairway,,3400.3,W Mosholu Parkway & Gates Place
+1,176,123,5f89267a-19c5-4241-86a4-873af2c46837,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,4,0,No,,,,3400.3,W Mosholu Parkway & Gates Place
+1,177,123,bb78c8b8-9d92-4dec-8727-98243bf527a5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,5,0,No,,,,3400.3,W Mosholu Parkway & Gates Place
+1,178,58,d374504d-e370-48a2-8bf0-9f1637afc92b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,1,4,0,0,Yes,,,,3520.6,E Gunhill Road & DeKalb
+1,179,58,6ad6d389-7e53-47c8-8dce-3cfe891c948d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,1,No,,,,3520.6,E Gunhill Road & DeKalb
+1,180,58,96f64d90-983b-43ee-88e1-e5d789125b5e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,3520.6,E Gunhill Road & DeKalb
+1,181,58,e8bd090c-984b-41db-8361-3fac2ebac10e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,0,No,,,,3520.6,E Gunhill Road & DeKalb
+1,182,58,65c7dac7-b6cf-45c8-8cbe-eb34f3a2a0b0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3520.6,E Gunhill Road & DeKalb
+1,183,58,3089ba02-1e45-4f65-8ab7-ce8e393b7122,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3520.6,E Gunhill Road & DeKalb
+1,184,58,44176d6f-2a3f-4aeb-8d9d-3737c3143a4c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3520.6,E Gunhill Road & DeKalb
+1,185,58,cceb8f95-71bc-4383-882a-f46603491f48,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3520.6,E Gunhill Road & DeKalb
+1,186,67,bb086dd4-c949-404a-8fba-c5982f8f8d3a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,187,58,ec07867b-b0eb-4874-8642-967b20f8254c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,1,No,,,,3520.6,E Gunhill Road & DeKalb
+1,188,58,030d5982-fc60-4095-87fb-69af0a763121,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,Building looks brand new investment. Looks modern compared to pre-war surrounding building,,3520.6,E Gunhill Road & DeKalb
+1,189,46,86332a27-9375-40dd-8cb2-fd97486d1e60,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3570.6,E 212 & DeKalb
+1,190,46,995970de-c934-4573-80dc-b40f330f5db8,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,2,0,No,,,,3570.6,E 212 & DeKalb
+1,191,46,b3243a4a-160a-4eed-801c-c1cb62881641,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,5,No,,,,3570.6,E 212 & DeKalb
+1,192,46,bb700e8a-c26e-4b69-81b2-c77ac4f4a872,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3570.6,E 212 & DeKalb
+1,193,46,4ca44b15-bdc6-487d-8200-6c1b376a55ca,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3570.6,E 212 & DeKalb
+1,194,65,8e308a2a-38b8-4867-8601-bc59d2d6cc5f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,213,E 213
+1,195,46,aaa5affc-1f57-4893-8749-7c1a216caa47,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,4,0,No,,,,3570.6,E 212 & DeKalb
+1,196,66,16ed3573-28a8-4125-88ab-de8a2f318a88,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,1,4,0,0,Yes,,,,3590.4,E 212 & DeKalb
+1,197,65,745af682-cdc7-4172-8822-047ace96b052,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,213,E 213
+1,198,67,38f4ec9b-aa1f-4f64-8d52-911c014d82b0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,2,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,199,67,9bb1de77-1e8b-4c33-8f47-7f1f3dab49ff,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,2,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,200,67,0868c249-a506-45e9-89cc-ca4e37405229,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,201,67,53012ff5-bda9-4c71-8d7e-4828e5379fa0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,3,5,4,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,202,67,f120c20b-704c-4c0a-8a70-5a78e62aadf5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,203,67,22b94c8a-7083-47f9-8183-cc734b2de31c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,204,67,ff419c39-88bb-4cef-80a5-e2c05a5b4017,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,4,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,205,67,c4ae8b75-5b62-4273-8ef7-c642ca78c6e7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,206,67,5505cdba-2dc4-42fe-8e96-0bc27980570e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,4,5,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,207,67,14f1aa12-eb6e-4f29-8ddb-ada466235ffc,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,2,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,208,67,26cb40e1-f5f0-400e-802d-3d84be7642df,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,209,67,896a6e9c-1249-43e5-89fd-cebff5f7d308,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,210,68,ba5a8003-34ae-4d05-885d-0ab76649fd36,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,0,E Gunhill Rd & Einstein Front
+1,211,67,f25f4d5e-8b91-4a50-8dc6-43a79aa50e3b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,5,No,,,,3520.5,E Gunhill Rd & Rochambeau
+1,212,71,44f96fbb-7034-465a-8d9f-c3de6970bce2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3520.4,E Gunhill Rd & Bainbridge
+1,213,70,08073526-8384-47d3-8e69-c03fadf3b6c2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3520.3,E Gunhill Rd & Wayne
+0,214,-1,9a6db312-1ac7-49da-87ca-561c0c128ad8,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,0,
+1,215,71,7cab0fdf-132b-434b-8689-56332f811628,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,0,4,No,,,,3520.4,E Gunhill Rd & Bainbridge
+1,216,71,218dfb3f-210f-484a-8851-d0b55847ae3b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3520.4,E Gunhill Rd & Bainbridge
+1,217,71,efcf7924-d9b6-4528-88b6-6d4784a539fe,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3520.4,E Gunhill Rd & Bainbridge
+1,218,71,1cdda871-ecc9-42ec-8d22-16eb1aa61424,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3520.4,E Gunhill Rd & Bainbridge
+1,219,72,a42e8fbd-8225-4e68-80de-c3a6f974334a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,1,3,3,2,No,,,,0,E Gunhill Rd & Wayne-Tryon
+1,220,70,a0335272-f932-4bf0-8819-6a1ee21bb169,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.3,E Gunhill Rd & Wayne
+1,221,70,6ac4f402-14c7-47dd-8b04-0df18568f175,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,3,No,,,,3520.3,E Gunhill Rd & Wayne
+1,222,70,d4df6dc2-41e3-4747-81e3-69a87994bdf7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,2,1,0,No,,,,3520.3,E Gunhill Rd & Wayne
+1,223,70,114dcaf9-22f6-498c-8089-594102ba1e9d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,5,4,No,,,,3520.3,E Gunhill Rd & Wayne
+1,224,70,8c518dc2-3833-49a1-85fb-edaabc86d2c6,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.3,E Gunhill Rd & Wayne
+1,225,70,59384d81-1724-4c1f-8c80-1cbf3e8ccec9,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,4,No,,,,3520.3,E Gunhill Rd & Wayne
+1,226,70,43b3afa7-f91c-429d-8f13-9d93c56151b8,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,Yes,,,,3520.3,E Gunhill Rd & Wayne
+1,227,70,50ee2837-b910-4d59-8e6c-a3d62033c1db,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,3,No,,,,3520.3,E Gunhill Rd & Wayne
+0,228,-1,48a65b08-f525-4207-8088-9b78382242f5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,0,
+1,229,70,86524ecc-7705-48c8-8062-3b9796bb49bd,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3520.3,E Gunhill Rd & Wayne
+1,230,73,fca670a1-43cb-4636-8b4d-ce5f040edcd5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,231,73,cf085573-ed77-4e62-8476-1429e84a0b4b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,0,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,232,73,e55bbaa7-ca20-40fc-8888-9b6a1835204d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,233,73,ace321c1-a816-45e0-8d6d-6656a5ba126a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,4,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,234,73,88a35e46-df9c-4dc4-8d8f-6163104aa358,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,4,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,235,73,f8f3c132-1004-4076-8e10-523a540221e4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,0,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,236,73,68a4196e-2def-482e-858e-10c6f8add596,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,5,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,237,73,39500663-8a9d-4fa6-88c5-8f0857958f33,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,5,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,238,73,3775ac40-3a9d-4cbb-84e6-11763e589ca7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,4,5,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,239,73,ccad6345-a919-4053-8c73-72a9c61d499f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,3,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,240,73,6c69de59-1eb9-4597-84b8-401ed8f4c773,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,2,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,241,73,4cfa5a30-fbe4-4cb5-843c-527a5b7962e3,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,3,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,242,73,dfaba59a-5a3a-4700-86aa-0207ab844c8f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3520.2,E Gunhill Rd & Tryon Place
+1,243,74,6c5e38ed-9e16-4568-8e40-a7d0647b426e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3540.1,E Gunhill Rd & King's College Place
+1,244,74,68772a77-36f3-44a3-8ac9-677f5dddef3e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3540.1,E Gunhill Rd & King's College Place
+1,245,83,24200236-b76f-4253-8a27-4affddc75f27,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,0,Tryon & Williamsbridge
+1,246,74,67cc9399-651c-4858-8f23-eda755dc8ba8,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,5,No,,,,3540.1,E Gunhill Rd & King's College Place
+1,247,85,3fb2c6eb-554d-40a8-82de-20dbdb702ce2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,Yes,,,,0,Reservoir Pl & Williamsbridge Oval
+1,248,74,8c0ab38d-011d-499f-8e17-38ca43295bae,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,5,No,,,,3540.1,E Gunhill Rd & King's College Place
+1,249,75,535c1b6e-d3d6-4871-8890-f3f78a6a8cc2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,0,E 211 Corner
+0,250,-1,62eb7c33-fd81-43b0-83ab-91861c3da57b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,0,
+1,251,76,4e9ce4fd-3704-4702-81c0-ff545d3cc285,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,0,E Gunhill Rd & Putnam - Perry
+1,252,76,731e72eb-7db9-40ce-8ecb-b94e8071e711,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,0,E Gunhill Rd & Putnam - Perry
+1,253,14,8b40d71d-a445-43fb-80aa-0be0f334c7ca,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3500.03,East Gun Hill & Perry
+1,254,14,0f3d8cb7-c33c-4212-8ad9-84d97b3de302,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,0,No,,,,3500.03,East Gun Hill & Perry
+1,255,14,ae2c3b9e-c9a6-4826-8525-0f5e2fb014f7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3500.03,East Gun Hill & Perry
+1,256,14,dc69e353-c80a-47f8-80ec-d9328676f93d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,0,No,,,,3500.03,East Gun Hill & Perry
+1,257,14,1a522cc7-7963-4e48-8cbb-2d5e572df4fd,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,5,No,,,,3500.03,East Gun Hill & Perry
+1,258,14,1d55babf-8f06-44a9-80dd-053fd19044ad,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,3,4,No,,,,3500.03,East Gun Hill & Perry
+1,259,14,0ea0a7c7-4b00-4854-8ef6-6e4c3d0c27ae,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,4,3,No,,,,3500.03,East Gun Hill & Perry
+1,260,14,769b8d9a-7bf6-43c3-89e3-3a4ea4f879b1,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,4,No,,,,3500.03,East Gun Hill & Perry
+1,261,14,cc5cf2d8-6320-41cb-808b-a85c4115e470,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3500.03,East Gun Hill & Perry
+1,262,76,592b07bf-38c2-499f-807f-748a84fd0cc1,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,4,No,,,,0,E Gunhill Rd & Putnam - Perry
+0,263,-1,6d2a524c-132f-4c74-8a8c-cdf2e72dc2cf,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,4,No,,Loose bricks,,0,
+1,264,76,c6b866c5-1f37-4327-832b-bc1d2555d84f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,0,E Gunhill Rd & Putnam - Perry
+1,265,85,6b4dbe25-9197-4744-86f2-005b92168390,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,3,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,266,85,67adcd86-cd3b-44a8-8e57-0c85cbb64d07,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,1,2,0,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,267,80,30f75ad2-4cb1-416f-81a9-8c996ef52e84,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,5,4,0,No,,,,0,Putnam Pl & Williamsbridge Oval
+1,268,85,fa60cccb-b4cf-4f9e-8fdc-8b23065953d2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,5,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,269,80,211a3d70-1183-4aec-87ae-9b25dee4129c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,0,Putnam Pl & Williamsbridge Oval
+1,270,85,dd28c714-37e7-4d36-8182-9b1e4ec51a4b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,3,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,271,85,31cbe3fa-6236-41cb-8f5f-11cf0ed077d0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,272,85,6deae612-d4fe-49ec-8d97-3a8e91fc4f12,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,3,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,273,85,87a6003a-354a-4c8e-8497-024e2d35d8ed,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,2,4,0,No,,Boarded up windows. Doesn’t look vacant but doesn’t look like someone lives there either,,0,Reservoir Pl & Williamsbridge Oval
+1,274,85,b2d28db5-4039-40bf-81e6-24728781d191,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,5,4,4,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,275,85,50311860-be72-4f24-81ce-04a4142e3194,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,4,0,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,276,85,072694d7-b820-42c4-8520-075dd37c8a20,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,2,No,,,,0,Reservoir Pl & Williamsbridge Oval
+1,277,15,f40c1aaa-c911-4d7c-8dfa-b7dd464e9dc5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2092,209th & Perry
+1,278,15,e1dc7ac0-f1ad-4c67-8002-135bb2016fc3,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3300.2092,209th & Perry
+1,279,15,3c0fba23-1a6e-46e8-8680-f1e425a0306f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2092,209th & Perry
+1,280,15,4abadf00-3f5b-4dc0-8532-dee3aa55b3b4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,1,No,,,,3300.2092,209th & Perry
+1,281,15,e9341c16-1e7d-414c-8148-fa471cb4c015,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,0,2,No,,Multiple cracks in facade,,3300.2092,209th & Perry
+1,282,15,359f26db-1676-4e52-85fa-8bd779e5c6e4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,2,2,5,No,,,,3300.2092,209th & Perry
+1,283,15,ea58efc7-e4e0-4b25-8fa4-ffded0054ea9,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,3,3,No,,,,3300.2092,209th & Perry
+1,284,15,3842a065-aae5-443c-8b2d-5f8fac163432,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,2,No,,,,3300.2092,209th & Perry
+1,285,15,3ba385e0-d691-4286-80ce-654ded0cc3bc,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3300.2092,209th & Perry
+1,286,15,04af029c-3aab-4cfe-8e02-033c92ab5177,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,0,No,,,,3300.2092,209th & Perry
+1,287,15,80ab1687-be89-4775-8b04-a0e9b627f269,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,4,5,No,,,,3300.2092,209th & Perry
+1,288,15,53b58239-f58d-4690-8479-15391133fdc2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3300.2092,209th & Perry
+1,289,15,7815d7c4-ca66-44c4-819f-dd38093d7dc7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,3,No,,,,3300.2092,209th & Perry
+1,290,15,597b15fb-9c33-46ad-8eb3-fde9754e8e8f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,5,No,,,,3300.2092,209th & Perry
+1,291,15,87ae48d5-05b0-40c8-8e21-9a317efe9120,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3300.2092,209th & Perry
+1,292,15,ff946ad1-0473-45ae-81c5-5ea8708670df,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,0,5,No,,,,3300.2092,209th & Perry
+1,293,15,a31d20cc-b409-4a65-8755-033581ca3e6c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,4,No,,,,3300.2092,209th & Perry
+1,294,15,ae0d04c3-210c-4f12-8bc5-352889f3606d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3300.2092,209th & Perry
+1,295,15,aa831140-af74-431a-8a05-0e97277b3de3,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,3,3,No,,,,3300.2092,209th & Perry
+1,296,15,32d721f9-e95e-42b7-8591-fb454320179c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3300.2092,209th & Perry
+1,297,15,bfcf6d8e-3fb6-4cda-8732-7c14dafc4673,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,4,No,,,,3300.2092,209th & Perry
+1,298,15,b1ebd101-90ae-401c-84a2-cbdffef9fd15,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,Realtor’s Home,,3300.2092,209th & Perry
+1,299,15,1d084f3e-88fa-4199-8b19-edfede437fac,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,5,4,3,No,,,,3300.2092,209th & Perry
+1,300,15,0233f42c-6bf4-4295-8973-028b02a18da4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,2,0,No,,Home for sale,,3300.2092,209th & Perry
+1,301,15,dd169070-bb1d-436d-86cc-cfea0114c803,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2092,209th & Perry
+1,302,15,12ad0517-bc1c-4fb9-870b-dda04040f39e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,0,No,,,,3300.2092,209th & Perry
+1,303,15,96f58f12-587e-4aef-8c41-a6718b65b416,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,2,0,No,,,,3300.2092,209th & Perry
+1,304,15,46ac9b03-54d2-4d3a-8e62-11aef0788f35,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,3,No,,,,3300.2092,209th & Perry
+1,305,15,9482a7af-a387-47d8-8694-34704054153b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,3,0,No,,,,3300.2092,209th & Perry
+1,306,15,2089a6e1-fd36-42b8-8a7e-58222f33b3e1,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,2,No,,,,3300.2092,209th & Perry
+1,307,15,90bc9cd0-0ded-44e1-8f95-ec1c786bf51f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,3,0,No,,,,3300.2092,209th & Perry
+1,308,15,5cb4c95f-775a-42a0-8360-ed8b9bada9a4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,0,No,,,,3300.2092,209th & Perry
+0,309,-1,0d190069-ee4d-4afa-8e01-55308c0ea7fd,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,0,
+1,310,15,78a90f30-00c2-490e-8f77-cefb9db31378,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3300.2092,209th & Perry
+1,311,12,e69baf0b-2047-44b3-8297-dd11034701f4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.2091,E 209th & Hull
+1,312,90,132d6e75-799e-4fc1-8fc1-ef6267649666,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,2,0,2,No,,,,3240.2072,E 207th & Perry
+1,313,90,c9d8fe37-6aec-4f2e-873b-f1dac39553ca,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3240.2072,E 207th & Perry
+1,314,90,5de42f24-49f5-4d44-8bb3-1a4ab152a71a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,3,No,,,,3240.2072,E 207th & Perry
+1,315,90,860587b9-d164-46e3-8837-fdee061e5354,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3240.2072,E 207th & Perry
+1,316,90,a1893fa0-27e3-4055-84d1-6ab6b615c8cc,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,5,No,,,,3240.2072,E 207th & Perry
+1,317,90,6dd40f86-da94-437a-88d8-7a77111da551,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,4,No,,,,3240.2072,E 207th & Perry
+1,318,90,846f30d9-5c17-472c-81d3-dc7becba240e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,4,0,No,,,,3240.2072,E 207th & Perry
+1,319,90,9f8f9411-3509-40a8-89ac-cb53b036e112,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,1,4,1,No,,,,3240.2072,E 207th & Perry
+1,320,90,a1d86006-f27e-43e9-84b7-8fdb3ae42b0c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3240.2072,E 207th & Perry
+1,321,90,da3e45c4-ecf7-4006-8ec1-45ca46015a47,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,5,No,,,,3240.2072,E 207th & Perry
+1,322,90,62839290-b1e9-4360-81a8-9684801f065d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,3,No,,,,3240.2072,E 207th & Perry
+1,323,90,f73ffc7f-0b78-49ab-8347-bf8ed7eaa68b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,0,No,,,,3240.2072,E 207th & Perry
+1,324,90,760180cf-90a1-44d6-805f-ac36ec3281a0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3240.2072,E 207th & Perry
+1,325,90,51e73dbe-d3f2-4827-8368-082879e7940e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,0,3,No,,,,3240.2072,E 207th & Perry
+1,326,90,7d3fb083-a590-43e2-87ed-efe5f1c5547b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,2,No,,,,3240.2072,E 207th & Perry
+1,327,90,af747dfd-ef5e-408b-855e-9a4a764cd002,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3240.2072,E 207th & Perry
+1,328,90,8eb40484-1651-41c6-867a-13f00f88f447,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,4,3,No,,,,3240.2072,E 207th & Perry
+1,329,90,0e4b9979-a0ce-4a5c-8d22-468113632d54,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,5,No,,,,3240.2072,E 207th & Perry
+1,330,90,baaf281e-cb11-44ec-8400-f3d92d601d04,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,3,No,,,,3240.2072,E 207th & Perry
+1,331,90,2fcc6442-62fd-428b-8281-e38ff658cd57,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,0,No,,,,3240.2072,E 207th & Perry
+1,332,90,cbae55f2-ecfe-43f8-8954-6d4d2f2268fc,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,3,No,,,,3240.2072,E 207th & Perry
+1,333,90,d83b4047-5914-4322-866e-6b4b5b17043e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,4,5,No,,,,3240.2072,E 207th & Perry
+1,334,88,fa58f291-23cb-4dc5-82a9-9cb15dd5c632,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,207.2,John C McCarthy & Perry
+1,335,26,c3cab108-d5f1-48f6-8f8b-154933a21879,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,0,E 207th
+1,336,112,eda6e039-8e13-4ddc-8c55-53490a9a9264,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,2,No,,,,3180.2,205th & Perry
+1,337,112,93d8071b-eb4e-4b89-8dea-f1fdd29631a7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,4,No,,,,3180.2,205th & Perry
+1,338,112,d77742b5-e528-4e37-81c6-cd631806af56,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,0,No,,,,3180.2,205th & Perry
+1,339,112,60d8cf2c-9931-4ec9-82d9-71802deb1a33,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,3,5,0,No,,,,3180.2,205th & Perry
+1,340,110,73060c51-5740-47ed-8c2d-87aa468ecec5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,5,3,No,,Broken underside for roof,,100.204,205th & Perry
+1,341,112,7b1aff77-b858-4f81-81fc-d8170c3d40de,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,0,No,,,,3180.2,205th & Perry
+1,342,112,f4741070-2d5f-4043-8664-173afb7c4048,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3180.2,205th & Perry
+1,343,110,f1d5f8ef-2b29-4698-8204-bb2e1e3fc31c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,3,4,No,,,,100.204,205th & Perry
+1,344,112,0ab4b6be-f335-4387-86ee-ba840e68076e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3180.2,205th & Perry
+1,345,112,0bd741e4-09a1-48d4-8d2b-1d678c610e05,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,4,No,,,,3180.2,205th & Perry
+1,346,33,dfdea674-2444-4f97-8fe4-a686c1f77b52,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3130.2042,204th & Perry
+1,347,112,08c82f82-86b8-4363-8cf9-2f9f05c77f3c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,4,0,No,,,,3180.2,205th & Perry
+1,348,112,d9512c61-8022-45ac-8d11-ce7396660c9b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,4,4,No,,,,3180.2,205th & Perry
+1,349,33,769b0e81-3120-4c8c-8734-fdd6eea73875,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.2042,204th & Perry
+1,350,112,78a21fdb-e64e-460b-808c-93fc17f4aa06,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,3,4,0,No,,,,3180.2,205th & Perry
+1,351,33,ceefa225-d4ef-4494-8621-716dba42234a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.2042,204th & Perry
+1,352,33,bbc50026-c149-4a7f-81ae-91bc1ef343f5,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.2042,204th & Perry
+1,353,33,dcd284c8-c272-45e0-8ffd-f3824870dbe3,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,1,No,,,,3130.2042,204th & Perry
+1,354,33,38e39277-c028-4272-8bb9-7613d0c078c7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.2042,204th & Perry
+1,355,33,bfcbae2f-318d-4895-8a21-f6ee348fbe4e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,2,0,No,,,,3130.2042,204th & Perry
+1,356,33,bf03a3d2-3ff2-47df-8960-c30d29e6a64f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.2042,204th & Perry
+1,357,33,f2d0b4d1-5785-4682-82e6-44d11a8996a2,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,2,0,No,,,,3130.2042,204th & Perry
+1,358,33,a7a863be-8ba2-4a7f-8370-c917ae0a8b5a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,0,No,,,,3130.2042,204th & Perry
+1,359,33,bda45135-700e-49eb-874b-41c9ab6c617a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,2,0,No,,,,3130.2042,204th & Perry
+1,360,33,95d5d03b-4c3b-443f-81cf-4697b5f2256b,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,5,5,No,,,,3130.2042,204th & Perry
+1,361,33,676baa23-0785-4aec-8f75-5ef4fab1a430,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,4,0,No,,,,3130.2042,204th & Perry
+1,362,33,e5fcbfc4-aa2d-431c-8afe-a19b2d176161,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,2,0,No,,,,3130.2042,204th & Perry
+1,363,18,eb3aaf0a-704e-4ccb-8428-e01ebe07aeb4,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3240.207,E 207th & Decatur
+1,364,18,ab45bb62-b7c0-4505-8b2c-42efa3c498fe,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3240.207,E 207th & Decatur
+1,365,18,082f542e-5383-4539-852f-0a9d520c7e29,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,3,0,No,,,,3240.207,E 207th & Decatur
+1,366,18,bebc6752-f3a7-4893-8b76-2cc330e6e890,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,3,0,No,,,,3240.207,E 207th & Decatur
+1,367,18,44c34033-7030-43a6-85cd-1aa20cc89632,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,3,0,No,,,,3240.207,E 207th & Decatur
+1,368,18,1d4878ec-2ee5-4e66-8fcd-d11807a9fd2d,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,4,No,,,,3240.207,E 207th & Decatur
+1,369,18,b187d6b8-00ad-4d35-8e05-107e214e115f,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,3,No,,,,3240.207,E 207th & Decatur
+1,370,18,88cea6f6-a74f-4022-8e2c-320355fed9b9,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,4,4,No,,,,3240.207,E 207th & Decatur
+1,371,18,8b4f481c-ce39-4709-8edf-2e5765a0998a,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,5,No,,,,3240.207,E 207th & Decatur
+1,372,18,c5e622d8-45cc-42cb-8638-064c0bf327d0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,3,No,,,,3240.207,E 207th & Decatur
+1,373,18,756ac8d3-90cd-47e4-8658-d4678a2c7799,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,0,2,No,,Greenery downfall may be due to insufficient sunlight,,3240.207,E 207th & Decatur
+1,374,18,c71b48af-2a62-474c-8912-c1e890162946,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3240.207,E 207th & Decatur
+1,375,18,be71a337-73a3-4949-81bc-f638ec767c9c,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,5,5,0,No,,,,3240.207,E 207th & Decatur
+1,376,18,e309b9a6-f786-4d17-8d59-c1f3927a8f11,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,4,No,,,,3240.207,E 207th & Decatur
+1,377,18,9bea9cbe-c281-4cdf-8c0e-996a2c738605,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,2,4,3,3,No,,Balcony looks like it's about to fall,,3240.207,E 207th & Decatur
+1,378,18,1a160203-f54f-4472-876a-1090e500596e,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,4,3,3,No,,,,3240.207,E 207th & Decatur
+1,379,18,f1f55cc8-b8f3-47d8-8c67-98ca5fb2fb96,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,4,0,0,No,,,,3240.207,E 207th & Decatur
+1,380,11,baa954b0-2e87-45e4-8dcb-9ef36f05f958,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,5,0,0,No,,,,3300.209,E 209th & Decatur
+1,381,95,b2b791a6-d7fe-403f-840b-4e820bf3d7f0,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.20901,209 & Parkside Place
+1,382,93,18630886-bfa3-4305-8823-aa9f9be28b98,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,3,3,0,0,No,,,,3240.207,207 & Parkside Place
+1,383,11,bdca11e0-702b-4535-849e-f9b2dc2fdd71,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,5,4,5,2,No,,,,3300.209,E 209th & Decatur
+1,384,11,9afa7612-d361-49fe-8e9f-a1ae1e4a8ea7,04/16/2022,ar8618_Bard1,04/16/2022,ar8618_Bard1,4,3,4,3,No,,,,3300.209,E 209th & Decatur
+1,385,11,456d2c6b-170d-4941-8029-46a40e9df833,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,3,No,,,,3300.209,E 209th & Decatur
+1,386,11,f65330c2-85d6-4bbe-8d31-ecddc66208bd,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,3,0,No,,,,3300.209,E 209th & Decatur
+1,387,11,5ec619c2-e3a0-4590-852b-67501d6b33d7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,0,No,,,,3300.209,E 209th & Decatur
+1,388,11,5f756196-ee89-4b0d-8d6a-519951ea7984,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,3300.209,E 209th & Decatur
+1,389,11,1dc4fcd3-654e-4cc1-88b0-4b404b6799ed,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,2,No,,,,3300.209,E 209th & Decatur
+1,390,11,1c0e25f9-f629-4a79-8f9d-1f0b09a13120,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,2,No,,,,3300.209,E 209th & Decatur
+1,391,11,eb26f6c8-f299-4761-8223-d7778ea121bc,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,3,No,,,,3300.209,E 209th & Decatur
+1,392,11,a56ffb45-1a26-4ee3-82fc-17bbdbed6546,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,2,No,,,,3300.209,E 209th & Decatur
+1,393,11,6f9a1684-39c7-487a-8875-10dcaa07f357,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,2,No,,,,3300.209,E 209th & Decatur
+1,394,11,68480eea-7e37-4183-82c0-e349c5d16e12,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,4,No,,,,3300.209,E 209th & Decatur
+1,395,11,c2265e61-9500-4c48-8573-cac4a747ba0e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,3,5,No,,,,3300.209,E 209th & Decatur
+1,396,11,0daf47e6-417d-4bf9-8005-80b9e269c166,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,3300.209,E 209th & Decatur
+1,397,11,366f3950-7fba-4f9f-8b2a-0345067df925,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,0,No,,,,3300.209,E 209th & Decatur
+1,398,11,945e120f-376a-45f9-80a4-90a7e1b3344c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,4,No,,,,3300.209,E 209th & Decatur
+1,399,11,a189f09b-a508-489a-8085-0288c4789243,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.209,E 209th & Decatur
+1,400,11,9176347c-3f4e-4525-8b2b-b7ca958993c3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.209,E 209th & Decatur
+1,401,11,42ae1029-f2d0-4a1a-8a4f-95f4d7072cdf,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,2,0,0,No,,,,3300.209,E 209th & Decatur
+1,402,11,eef34dcc-8209-497c-8c72-ec61b4b60cd5,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,2,3,0,No,,,,3300.209,E 209th & Decatur
+1,403,11,4fb31508-4fad-40de-8708-4b4e5fc84d6e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,5,0,No,,,,3300.209,E 209th & Decatur
+1,404,11,9542e20a-b304-4430-8547-36e62162c58e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.209,E 209th & Decatur
+1,405,11,696566d6-144f-4c6c-879d-30d5d96f47b5,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.209,E 209th & Decatur
+1,406,11,8c9206e2-9534-4983-8df3-200831297373,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,5,No,,,,3300.209,E 209th & Decatur
+1,407,11,9bb91c0f-ecce-424d-8cfc-e21701877723,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.209,E 209th & Decatur
+1,408,11,f0ea57e3-2db5-4c1f-8b3f-4aacbe18f031,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,3,0,0,No,,,,3300.209,E 209th & Decatur
+1,409,11,1f0a3cae-2c5d-4d6b-853e-54ec940a6bfa,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,4,No,,,,3300.209,E 209th & Decatur
+1,410,11,772e6d22-27c1-4270-85de-4c0aa27cfda0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,5,No,,,,3300.209,E 209th & Decatur
+1,411,11,ef8769ef-4718-4a02-8e13-3c2ddb620644,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,2,2,0,0,No,,,,3300.209,E 209th & Decatur
+1,412,11,dcb2049c-8f5e-43da-8a23-c3d331350808,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,3,No,,,,3300.209,E 209th & Decatur
+1,413,11,2d626308-6d6b-431e-8ab6-af557525bbe5,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,3300.209,E 209th & Decatur
+1,414,11,3b323803-bbe3-4f69-830a-0667a6d4895c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,3,0,0,No,,,,3300.209,E 209th & Decatur
+1,415,11,ca3edba2-f34e-41c2-8920-250053f71a33,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,5,No,,,,3300.209,E 209th & Decatur
+1,416,94,33025fbf-8b1e-4a1f-84a2-2b99401bc37f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,5,No,,,,1.01,Webster & Parkside Place
+0,417,-1,35405aa6-8ad2-42d7-8ed5-6162224d2f4c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,0,
+1,418,95,fccf826d-b1f7-4ea3-88c9-412b2ea0e68f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,3300.20901,209 & Parkside Place
+1,419,95,ff357528-cebd-44c2-8461-bcab3fb7012a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,3,0,No,,,,3300.20901,209 & Parkside Place
+1,420,95,5ebec0f9-baf2-45ee-8dcd-a373f6c08c23,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,4,0,No,,,,3300.20901,209 & Parkside Place
+1,421,95,6d0dfde8-7948-4d71-819c-d8eb91ed0112,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,2,3,No,,,,3300.20901,209 & Parkside Place
+1,422,95,30199001-f573-4339-86d8-83a71b0ba5f1,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,2,3,No,,,,3300.20901,209 & Parkside Place
+1,423,95,cef8efd6-a819-4ff0-88c4-6d1c9b81f1b6,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3300.20901,209 & Parkside Place
+1,424,93,bf677b21-4e5d-4c41-82bd-c527df813fe6,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,3,No,,,,3240.207,207 & Parkside Place
+1,425,93,bd0f935a-5e04-45ae-8f2d-ec189511f048,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,4,No,,,,3240.207,207 & Parkside Place
+1,426,93,6d3d84a9-c62a-49a6-8296-1a73ef5fc177,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,3240.207,207 & Parkside Place
+1,427,93,deea5fe0-62ae-441f-8368-1c1e883dfcb3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,2,4,0,No,,,,3240.207,207 & Parkside Place
+1,428,93,16752ba2-034d-456b-86df-a58779e57558,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,1,No,,,,3240.207,207 & Parkside Place
+1,429,93,e7ba39b4-7698-4428-8ba1-901561e93b19,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,3,0,0,No,,,,3240.207,207 & Parkside Place
+1,430,93,9755af1c-9bb6-4d6e-8fa4-ea867cd8b751,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,5,No,,,,3240.207,207 & Parkside Place
+1,431,93,7af4bd54-bbb0-456e-86ae-f38fbb27f20c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,5,No,,,,3240.207,207 & Parkside Place
+1,432,93,596b16a8-8026-4d2b-8327-7194f87478d6,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,5,No,,,,3240.207,207 & Parkside Place
+1,433,21,e66c71c8-728e-4450-8443-d3016851aa1d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,207.1,E 207th
+1,434,21,027e15e8-d02a-44b6-8eee-be39eec21de0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,207.1,E 207th
+1,435,21,576fa623-332d-4221-8580-51636813e11d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,207.1,E 207th
+1,436,21,2cad1ac9-7bc0-460c-8316-54e894371599,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,207.1,E 207th
+1,437,21,8cd8b460-422c-4ee3-8a1b-8b89c9199d02,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,207.1,E 207th
+1,438,21,ce64d450-8c2c-49bd-895e-22763a49cb9e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,207.1,E 207th
+1,439,21,9184fb43-fbfe-4786-8c8f-88ed7a22f73a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,207.1,E 207th
+1,440,21,2f8ee206-0106-40bd-819f-bedef1befb62,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,207.1,E 207th
+1,441,21,a7b7f0ef-27b9-4952-8a14-d3749270ff1f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,207.1,E 207th
+1,442,21,6861a6a3-a0c9-4889-8c74-ac493a69a2ed,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,4,No,,,,207.1,E 207th
+1,443,21,5fe76587-f0e1-4bc5-8a33-65aa71e37df6,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,5,No,,,,207.1,E 207th
+1,444,21,bf462cd7-7b9f-4570-86c1-fa24461a79d6,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,4,No,,,,207.1,E 207th
+1,445,113,89b578c2-7152-4634-8087-66d0c9ad1c50,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,3,No,,,,3200.20501,205th & Webster
+1,446,113,7fe73ea8-7c26-4f75-88a5-7c96b55fb503,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,3200.20501,205th & Webster
+1,447,113,194590de-f359-4303-8de3-246ff53bc7b7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3200.20501,205th & Webster
+1,448,113,cd34a86c-c5b4-4216-8c08-8189d8ae4fa2,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,5,No,,,,3200.20501,205th & Webster
+0,449,-1,073f4bd8-9114-4f12-8da5-d5579d6d4463,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,0,
+1,450,29,a29782db-b675-40ac-87d0-00a62daf6fb8,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,3190.205,205th & Decatur
+1,451,30,2c941e46-1a64-45bd-8b6e-7d63d6c13828,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,204,E 204th St.
+1,452,106,dccc5f06-f09b-44f2-893f-7ef7cf40dd32,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,2,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,453,106,63ccf2fe-be80-48cf-8f86-f0634a5c4cd7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,454,106,97f6d76d-543f-4c48-89c1-f584d26d9dd9,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,2,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,455,106,72ddc385-65bb-403a-834e-4dfd5624045e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,1,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,456,106,1f4f4697-9a82-43f4-8123-4b8a3beaefa0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,457,106,bd77b198-048e-42f9-81ed-7d68c37b3c59,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,458,106,0e1bebc5-2d39-45da-8e28-b008ea9217c0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,459,106,82764bf8-0edf-4af0-8dc5-8e0afe648ebd,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,460,106,b8137db6-99f1-46fc-8aa5-13751a68d35b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,461,106,0a3a5402-5339-4599-88bc-6cd6c91ae9a9,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,2,0,0,No,,Broken window,,3040.1,E Mosholu Parkway N & Hull
+1,462,106,9793d047-ea5c-4919-8a15-4bf6da5b461d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,463,106,741fac42-83b9-45e8-8d30-578e4df6fc94,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,464,106,e5116bb7-5333-47c3-8077-67b7edb46df1,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,465,106,6316d480-e257-46ef-8fa1-821266006431,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,466,106,dd27fb51-7993-43f8-8688-1260038fb488,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,2,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,467,106,0e68bfbe-da5e-454f-8b4d-8229d655f995,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,2,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,468,106,c754764d-c13e-48f5-80e4-46ec71ded01c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,3,2,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,469,106,7f16caac-44d4-4ad1-826b-73738e3dc2fd,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,470,106,338e6c47-e4ad-41ea-8b2d-f073228b6d47,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,5,0,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,471,106,e320e37a-01f2-4faa-8b60-e348db75faff,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,3040.1,E Mosholu Parkway N & Hull
+1,472,30,e2e14993-5d97-4dd6-8373-461ca31f0fe3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,Construction being done on the bottom,,204,E 204th St.
+1,473,32,2f078a3b-ee29-42cd-827d-38a19d81779a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,3,No,,,,3120.2041,204th & Hull
+1,474,32,d78e9794-8ba0-4592-8928-7f8faa238fa3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3120.2041,204th & Hull
+1,475,32,48eb198c-c337-4766-82e5-21adde05e9f1,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,3,0,No,,,,3120.2041,204th & Hull
+1,476,32,98f5ffcf-c91e-4e1a-8e1e-e55dd1de3c2d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3120.2041,204th & Hull
+1,477,32,05e852c7-8596-4d89-8b53-d65c91181658,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3120.2041,204th & Hull
+1,478,32,89215455-85b2-49ba-871c-70978dd95e37,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3120.2041,204th & Hull
+1,479,32,2ce90b99-4143-46ad-88e2-8d58a22937b3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,4,No,,,,3120.2041,204th & Hull
+1,480,32,f47139c4-f97f-4c1f-8868-b1d70884ccf7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,2,0,No,,,,3120.2041,204th & Hull
+1,481,32,0ccfdbd0-5754-4f13-8ff1-bb76612d258a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,5,0,No,,,,3120.2041,204th & Hull
+1,482,32,822a34e4-fdba-4fb0-867a-b3ae211a2bae,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,3,No,,,,3120.2041,204th & Hull
+1,483,32,d98814ee-e6f8-4650-8560-6c6285c92d57,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,0,No,,,,3120.2041,204th & Hull
+1,484,32,46405786-1b35-4732-88cb-4cb186052011,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,5,No,,,,3120.2041,204th & Hull
+1,485,32,c12b995f-4eb8-4c78-8d74-f86a51fa78fa,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3120.2041,204th & Hull
+1,486,32,79c9d6a8-f521-46fa-87b7-721c1143cb44,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3120.2041,204th & Hull
+1,487,32,4c115591-d2df-4901-8fde-8325c241047d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,3120.2041,204th & Hull
+1,488,32,913daad3-d483-43bf-861d-afa71401eb65,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3120.2041,204th & Hull
+1,489,32,b41e2e0b-a0c2-456c-8065-797ba2985e7b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,3120.2041,204th & Hull
+1,490,32,386f75c8-8e44-4db3-8725-a1c7113aa2e3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,0,No,,,,3120.2041,204th & Hull
+1,491,32,690232cf-b1fc-4af3-871a-e047a9142a94,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,0,No,,,,3120.2041,204th & Hull
+1,492,32,64f7233d-95a0-4b33-8f1a-5cb6829ca28c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,5,No,,,,3120.2041,204th & Hull
+1,493,32,a4b239c1-5f23-419d-89b1-e901c02e2e56,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,5,0,No,,,,3120.2041,204th & Hull
+1,494,32,514d8334-4ecc-4d97-85b7-38b85dcb510f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3120.2041,204th & Hull
+1,495,32,677e68e5-273a-41e1-8254-d5caf814a362,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,5,2,No,,Bowing roof,,3120.2041,204th & Hull
+1,496,32,d8771be0-6e9e-4c4a-8600-804461254b7b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,2,0,No,,,,3120.2041,204th & Hull
+1,497,32,756e6b00-f8cd-407a-8587-abb529baa19e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,3,0,No,,,,3120.2041,204th & Hull
+1,498,32,caf40dc7-e98e-4ec9-8311-48bacded7ebc,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,4,No,,,,3120.2041,204th & Hull
+1,499,32,69eee4f1-9253-4178-8264-2973c95dda8f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,2,0,No,,,,3120.2041,204th & Hull
+1,500,32,9fde3a44-9dd7-49b8-82c6-9b7b78e0cd5e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3120.2041,204th & Hull
+1,501,32,00281ee0-b6d5-4264-86df-d5fd41563de0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3120.2041,204th & Hull
+1,502,32,9d4caf45-74cd-416e-8bf2-a3b86dfc12c2,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3120.2041,204th & Hull
+1,503,32,f6be4bcc-5594-4726-876b-13b006640a11,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,3120.2041,204th & Hull
+1,504,25,8a6145ac-9c2c-449f-8909-e1f07d53583b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,3190.2051,205th & Hull
+1,505,25,cd055c35-4e58-457e-8d8c-b706fe14faae,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,3190.2051,205th & Hull
+1,506,25,bc63d2d3-6218-4f1e-815f-c0d00f0753e5,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3190.2051,205th & Hull
+1,507,25,a3e4f2ab-a398-42ba-8925-df7da3e3cb09,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,1,No,,,,3190.2051,205th & Hull
+1,508,25,f75efb36-0fe4-4cd5-8d88-3c3005fbb7e2,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,3190.2051,205th & Hull
+1,509,25,79a4c50e-c77f-4c70-8030-043bb860528f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,3190.2051,205th & Hull
+1,510,25,d65c4846-61d2-47f0-886a-eae7ad40a1f0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,1,1,0,0,No,,Boarded up building in construction,,3190.2051,205th & Hull
+1,511,25,84c0ab3e-727f-498a-8f9c-0a42e3d41ada,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3190.2051,205th & Hull
+1,512,25,9907a0df-9f43-4f59-8691-b4a2ce1b8a5d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,4,No,,,,3190.2051,205th & Hull
+1,513,88,a908c760-1531-4062-829f-703e1838da9a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,207.2,John C McCarthy & Perry
+1,514,25,0531c1b6-f21e-45ef-82f2-a03629684f45,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,3190.2051,205th & Hull
+1,515,25,71a7f489-fa81-40ac-8e0b-cf8720adb748,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,5,No,,,,3190.2051,205th & Hull
+1,516,25,b30ff065-6b5a-4807-819e-6faefc06a830,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,4,No,,,,3190.2051,205th & Hull
+1,517,25,de058e0f-101f-4c24-8a83-12fda8937298,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,3,No,,,,3190.2051,205th & Hull
+1,518,25,c6f8a0a2-9421-4b4a-8c79-2119cb57db30,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,4,No,,,,3190.2051,205th & Hull
+1,519,25,6dfc27ed-ce46-44e6-8b55-9d5088f75c25,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,4,No,,,,3190.2051,205th & Hull
+1,520,26,2434b67c-8e20-4ca0-8dcd-63be922b74c0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,0,E 207th
+1,521,96,9dc4e3aa-01f4-4412-895d-07802e92257b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,522,96,faaa531b-bb98-422a-8dfb-9411b797dea6,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,523,96,6fb10c12-8a0b-4848-8fa4-65c5d02fc73d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,524,96,786f3148-22de-44ef-8810-18b5fb19913f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,2,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,525,96,63548f1e-e13b-4e76-8d39-1621c5cf172c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,526,96,4b7361b4-b40c-4d0b-8373-632e23a6ca46,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,527,96,f36c3630-f96f-42d3-854e-ec10e2cff309,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,528,96,1413c7e9-3a9d-4300-8942-02ad65b94c0a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,3,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,529,96,5e86c62b-84a5-49c7-89c8-8cfc35e9e7bf,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,3,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,530,96,1e7db252-5c4a-4994-8972-9a9c522de694,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,5,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,531,96,e59efa77-9489-4daf-8473-cbaaf71bbbf8,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,532,96,b73cdc06-0871-4ac1-8f4a-0385220c1b3e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,533,96,c29160bc-231f-4466-8ff2-1401f1f6333f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,534,96,e7ceb2d5-c546-4981-84dc-aac5a0ef0182,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,5,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,535,96,1b53ee6b-493b-41eb-840e-478a32c18f2e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,536,96,b50406e0-3ed0-480c-842f-5f0454bdddfd,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,4,No,,,,3040.2,E Mosholu Parkway N & Perry
+1,537,98,575fa837-3f21-4fc8-8cb0-c5ece01caad9,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,100.5,E Mosholu Parkway N & Bainbridge
+1,538,105,02de0fb3-a855-480e-89c0-0bcd29e4fcfa,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,3,0,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,539,105,6f909b8a-4619-44e9-8a2e-8aec5141edfe,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,3,4,0,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,540,105,176f6847-6f66-4a08-8ce7-9965e7702724,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,541,105,fa27b48b-2c36-4d1d-8310-5055618303d8,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,542,105,488a88e5-2a19-4fba-80e6-629523779f4f,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,543,105,54bbebd9-ae56-4257-81e7-a9e3ae369d29,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,5,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,544,105,4f8fa015-6848-48c7-8031-db888a2a98a2,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,5,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,545,105,1cfa1031-197d-4da2-866f-ac743b5d053a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,3,4,No,,,,201.1,E Mosholu Parkway & Bainbridge
+1,546,6,cbcf0d7d-5340-4805-84bf-276700615a34,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,4,No,,,,201.206,E Moshulu Parkway & 206th
+1,547,6,8d4acf7c-dd67-483d-898f-38be7d347997,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,201.206,E Moshulu Parkway & 206th
+1,548,6,0bdc4812-9abb-4710-871c-91716527cea7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,0,No,,,,201.206,E Moshulu Parkway & 206th
+1,549,6,8fab3d09-d67a-4cde-8a94-a4c3c6fdf700,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,1,4,0,3,Yes,,,,201.206,E Moshulu Parkway & 206th
+1,550,6,2e0fe5d6-fb48-4af8-802c-54e1a1652cd7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,1,4,0,3,Yes,,,,201.206,E Moshulu Parkway & 206th
+1,551,122,817bfa1f-41a2-40f7-8dd2-8c9c0dadd3c0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,2,No,,,,201.2,E Mosholu Parkway & Steuben
+1,552,5,585f5ff6-4296-4d2f-88f6-e77c5e887edc,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,85.1,E Mosholu Parkway & Steuben
+1,553,5,306f077b-3b5d-43e1-8084-12be24f04ff9,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,85.1,E Mosholu Parkway & Steuben
+1,554,5,dbd3758d-007b-4914-848c-0a2f3b784224,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,0,No,,,,85.1,E Mosholu Parkway & Steuben
+1,555,5,8d669440-5b07-42fb-8d10-b6d95153fb6d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,85.1,E Mosholu Parkway & Steuben
+1,556,5,aa6d48ad-928f-45e5-8b45-32cff7c5e54a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,85.1,E Mosholu Parkway & Steuben
+1,557,4,7086d933-b383-480a-8297-295809026e56,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,5,No,,,,15.1,E Mosholu Parkway & Kossuth
+1,558,4,7d1b15f2-e59e-4baf-88db-f76ec6b8a6e5,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,3,5,Yes,,Extremely small sidewalk shed,,15.1,E Mosholu Parkway & Kossuth
+1,559,4,a897bdf0-a043-4458-80ae-d59206c23edd,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,15.1,E Mosholu Parkway & Kossuth
+1,560,4,3c24553a-d84d-4988-8897-09f754449683,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,4,No,,,,15.1,E Mosholu Parkway & Kossuth
+1,561,4,68165ce3-858b-472b-867c-17c0ea730c7a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,15.1,E Mosholu Parkway & Kossuth
+1,562,53,2624a307-9c87-4cbb-89c8-ea499ab39c38,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,210,210th & Jerome
+1,563,53,c9c539be-abb4-4444-81d2-6d3af4404cb0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,3,No,,,,210,210th & Jerome
+1,564,54,36bebb67-6487-4329-852f-5aa33436e201,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,16.208,208th & Kossuth
+1,565,54,f1ac4888-b7d8-41d0-8349-8dbd941faf03,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,0,No,,,,16.208,208th & Kossuth
+1,566,54,b54edb8d-c18d-4136-8283-3c4aca2a6c8a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,0,No,,,,16.208,208th & Kossuth
+1,567,54,c4534d51-e74c-4fdf-8cbc-f5f353d90608,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,4,No,,,,16.208,208th & Kossuth
+1,568,54,4f6cdfeb-0975-495f-8389-79602b7b53c2,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,3,0,0,No,,,,16.208,208th & Kossuth
+1,569,54,f433514e-8e5a-499a-861c-97947bb8c71e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,16.208,208th & Kossuth
+1,570,54,e3f31ec6-f052-4422-8f5d-a2939147f46a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,16.208,208th & Kossuth
+1,571,54,6a4aa9a1-e2de-4863-8ae9-d51a79185d55,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,0,No,,,,16.208,208th & Kossuth
+1,572,120,e81eff01-6476-4fc4-858f-4357841027b2,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,3300.2082,E 208th & Kossuth
+1,573,54,1ff83174-48c1-4cc3-8331-6e0587402350,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,16.208,208th & Kossuth
+1,574,118,85bc4a65-231a-4e04-8d9f-d2828cae4e47,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,Ton of sealant,,75.208,E 208th & Steuben
+1,575,54,b84fab90-ab99-4455-8255-8661faa611f3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,3,0,No,,,,16.208,208th & Kossuth
+1,576,118,8fe5a3ba-1ac1-4445-84cf-b9152bb82635,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,0,No,,,,75.208,E 208th & Steuben
+1,577,118,a0167759-8f66-4a79-8d87-1152f05d450a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,0,No,,,,75.208,E 208th & Steuben
+1,578,118,764e130b-9472-4d53-8cd3-466524076f37,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,75.208,E 208th & Steuben
+1,579,118,f034ba21-f122-43a4-81dc-9f6b729146a3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,3,0,No,,,,75.208,E 208th & Steuben
+1,580,118,dcc5ccbf-88b7-46e1-8d00-d97635a54a98,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,0,4,No,,,,75.208,E 208th & Steuben
+1,581,118,126095ff-28da-4714-85f1-0eba42b91a9e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,75.208,E 208th & Steuben
+1,582,118,4466801c-ca79-4a81-8777-303ffce6d000,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,3,0,No,,,,75.208,E 208th & Steuben
+1,583,118,590206c2-7296-4773-8160-c0d92f8a856a,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,75.208,E 208th & Steuben
+1,584,118,310707c8-be23-4841-80c3-4f38804627a1,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,75.208,E 208th & Steuben
+1,585,122,59438423-457f-4cdf-8cb3-f2929061fc9b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,3,No,,,,201.2,E Mosholu Parkway & Steuben
+1,586,122,f2e72497-32e6-4b19-83f0-b135f31b2ddf,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,201.2,E Mosholu Parkway & Steuben
+1,587,122,5be7381c-d078-4c35-87bc-8aaa6ff84d89,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,0,No,,,,201.2,E Mosholu Parkway & Steuben
+1,588,119,70a5a1f9-3b83-4fe9-80ed-56288985d037,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,4,No,,,,3300.2081,Steuben & E 208th
+1,589,119,511c19c6-a5e8-4cbb-81a9-93dc58c707b4,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,5,No,,,,3300.2081,Steuben & E 208th
+1,590,119,8e3b3c47-626c-44db-8a3b-0e3b8899b816,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,3,3,No,,,,3300.2081,Steuben & E 208th
+1,591,119,654eb239-5b9d-42ec-868e-fa2532f31614,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,1,No,,,,3300.2081,Steuben & E 208th
+1,592,119,bfe08e68-b992-4848-8580-7d07f084cf99,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3300.2081,Steuben & E 208th
+1,593,119,200f0b57-95e4-4aac-8c9a-0ad246760c1e,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,5,0,No,,,,3300.2081,Steuben & E 208th
+1,594,119,09a1334f-68e8-4bf2-872f-a3cc91f40efc,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,3,1,No,,,,3300.2081,Steuben & E 208th
+1,595,119,47894737-c53a-4648-8c3a-9d5d627cb716,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,5,No,,,,3300.2081,Steuben & E 208th
+1,596,119,c5214603-9af8-41a7-8aea-bd2a5b1bdc16,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,3,0,No,,,,3300.2081,Steuben & E 208th
+1,597,119,8d1fc9a8-526e-406a-818a-a15d8bd48950,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,0,4,No,,,,3300.2081,Steuben & E 208th
+1,598,119,28ae4942-fbe5-48ce-8aca-21138873b852,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,5,5,No,,,,3300.2081,Steuben & E 208th
+1,599,119,258a80b3-6fc9-4e8e-877d-73fa866864bd,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,4,5,No,,,,3300.2081,Steuben & E 208th
+1,600,119,0d8d7624-ce3c-4937-89b1-54d47ca45c36,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,4,No,,,,3300.2081,Steuben & E 208th
+1,601,119,915ab928-4f34-49fb-8b54-6aeac1e02e4b,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,5,5,No,,,,3300.2081,Steuben & E 208th
+1,602,119,6c9c4e5a-3f24-47b8-8ea5-a11aba1218b7,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,4,5,No,,,,3300.2081,Steuben & E 208th
+1,603,119,c3c0a32a-7cb9-4c5d-8de2-f185e5071fc8,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,5,No,,,,3300.2081,Steuben & E 208th
+1,604,119,74c5c834-f9d6-4200-88b8-7a4bae4531fe,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,5,No,,,,3300.2081,Steuben & E 208th
+1,605,120,72d04d76-8fd7-4c39-8b6d-6ccc741e78c1,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,3,0,No,,,,3300.2082,E 208th & Kossuth
+1,606,120,09e6d8e6-0295-4064-8465-531e8cb6aa14,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,3,0,No,,,,3300.2082,E 208th & Kossuth
+1,607,120,18ebf5da-022a-4f3c-8465-da5d155df446,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,3,0,0,No,,,,3300.2082,E 208th & Kossuth
+1,608,54,f8969abd-1e1b-4b55-8ea8-40b0cd52bcdb,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,3,No,,,,16.208,208th & Kossuth
+1,609,56,2d39f390-4ad6-468a-8aea-7fda5ef84d3d,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,0,4,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,610,56,95a0784d-221c-4b16-8b3d-9a9903282fb4,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,611,56,b1b7aa91-f510-4ff1-8927-023bc458b6d0,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,5,5,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,612,56,f9ea43b2-595a-497b-8fd3-19dea2813768,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,5,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,613,56,d3f06c2d-4cc9-499c-849d-93d761d216b3,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,5,4,3,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,614,56,1aa68d12-715c-442e-8769-9259c9938fff,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,615,56,951008c3-6931-47e9-8e45-0de4b1ac1fad,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,616,56,b1f462c5-67aa-419f-8603-2d80d8cec552,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,3,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,617,56,5984d12d-7dba-425d-8de1-2c13844f53a8,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,5,4,4,3,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,618,56,22e42344-c64b-47fb-8167-34ebabe765f9,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,619,56,d5f09eb3-245d-4349-88b2-7ed2e1e4b4ba,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,4,4,0,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,620,56,f46702a8-b674-44b9-85a9-89af3da7a83c,04/17/2022,ar8618_Bard1,04/17/2022,ar8618_Bard1,3,4,0,0,No,,,,3400.21,Reservoir Oval W & Wayne Ave
+1,621,107,fd14fe30-7063-4f34-831a-683c9b51bef0,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,2,2,0,No,,Boarded up basement,,3040.1,E Mosholu Parkway N & Decatur
+1,622,108,fa36a776-d0a6-4353-8369-35335da0e47c,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,5,3,3,4,No,,,,3020.01,Mosholu Parkway N & Webster
+1,623,107,2a997410-8f01-458a-84f9-4342de31feab,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,3,3,5,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,624,107,742b4bcc-3271-403b-8e4d-c47089a9518b,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,0,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,625,107,0a519084-9ba1-42ac-8b8c-90f4c4804569,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,3,3,0,Yes,,,,3040.1,E Mosholu Parkway N & Decatur
+1,626,107,a65e2e72-1cd6-4aef-80d3-46346fdd41a7,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,0,3,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,627,107,30a0793d-8f2d-464c-8300-ba1948d15ae9,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,0,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,628,107,613c79df-89a8-490a-8230-9fd5e4b71cde,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,0,4,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,629,107,b1704c06-fb87-4219-8c99-8f2cb6921923,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,1,2,1,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,630,107,9190b784-7268-4734-80d5-2b267cd1eefc,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,4,4,4,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,631,107,e5d65304-09fe-4630-8c5b-9260b834a8db,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,3,2,2,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,632,107,1749d0ad-5731-43a3-8d37-e55a86c64879,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,4,4,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,633,107,7bc5bef5-e88b-4e2f-80d4-7f870dedd36b,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,5,0,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,634,107,78a8cde6-6134-40ca-8704-1d9d36123f00,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,3,2,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,635,107,42569a01-7e9c-46a6-8e42-f6854b327297,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,636,107,31d3037c-bddb-493f-8d89-d083b27c1d84,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,3,2,4,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,637,107,4e4d66f6-1ca4-4108-826f-19c1dab926e8,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,2,3,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,638,107,f84052af-c8e4-447d-8b67-e7372a06be93,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,3,5,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,639,107,7d4f6187-85e6-4f46-8cc1-a3c807e3413d,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,3,3,4,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,640,107,69bb4ed0-b4c3-4129-88f8-a7cb073e8b16,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,4,4,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,641,107,519d6f96-9929-4e43-8eb9-26cc626a94ab,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,4,3,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,642,107,8ed903a9-d42b-4751-8915-3a8770ad4b7b,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,4,0,0,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,643,107,43895b7d-5dac-4d4f-848d-f535e2ddda77,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,4,0,5,No,,,,3040.1,E Mosholu Parkway N & Decatur
+1,644,30,0ad20e1e-5b28-45cb-85a9-07c818a22bec,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,4,0,0,No,,,,204,E 204th St.
+1,645,104,0da9e1a7-e888-463c-8f37-8054db001df9,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,5,5,5,0,No,,,,0,E 204th & Deadend
+1,646,104,4785faba-6238-4409-87a4-c624cd385b31,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,3,4,0,No,,,,0,E 204th & Deadend
+1,647,104,10e23434-8204-4dd1-8559-286f32caa22b,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,4,3,4,0,No,,,,0,E 204th & Deadend
+1,648,104,14c94ad0-7fa2-434e-811c-96144086f2bc,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,3,0,4,No,,,,0,E 204th & Deadend
+1,649,104,eef0ad23-a322-40fc-82ad-cb84893793d1,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,3,0,0,Yes,,,,0,E 204th & Deadend
+1,650,108,46c324fc-96a4-42a7-828d-dcc5445c80c0,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,0,0,No,,,,3020.01,Mosholu Parkway N & Webster
+1,651,108,905dcce0-5d23-41d4-8ca3-a4836aed0478,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,2,1,No,,,,3020.01,Mosholu Parkway N & Webster
+1,652,108,eb9a77b5-f872-4c36-846f-a6cfb26d267c,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,0,2,No,,,,3020.01,Mosholu Parkway N & Webster
+1,653,108,75e1b685-3b58-40dc-8396-161ae306cb37,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,2,2,0,No,,,,3020.01,Mosholu Parkway N & Webster
+1,654,108,dc88ce0c-bd77-42a5-8fa1-db9cd93c2797,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,2,2,3,0,No,,,,3020.01,Mosholu Parkway N & Webster
+1,655,108,9373ae92-6ae2-48ac-8614-c9bf75789273,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,1,3,2,0,No,,,,3020.01,Mosholu Parkway N & Webster
+1,656,108,f4bcece9-be84-455f-811b-e2365fc1e160,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,3,0,No,,,,3020.01,Mosholu Parkway N & Webster
+1,657,108,a0cc80f1-672a-4dd2-88e7-c21e1fd4c360,04/18/2022,ar8618_Bard1,04/18/2022,ar8618_Bard1,3,3,2,0,No,,,,3020.01,Mosholu Parkway N & Webster
